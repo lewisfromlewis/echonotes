@@ -1,0 +1,368 @@
+---
+title: "Echonotes"
+author: "Lewis Campbell"
+format: 
+  html:
+    code-fold: true
+editor: visual
+---
+
+# Technical factors
+
+## Intensity
+
+Intensity can be expressed many ways. I = Power per unit area, or watts/cm\^2, is the main way. Then the maximum intensity is expressed as the intensity at the highest exposure point within the beam, but averaged over the exposure period (spatial peak temporal average, SPTA); or as that highest intensity exposure point, averaged instead over the pulse duration (spatial peak pulse average, SPPA, which is higher). The FDA allows SPTA to be 430 or 720 W/cm\^2 for "regulated-application specific standard" or "output display standard" respectively.
+
+These don't apply to tissue under normal scanning, as the beam is moving, and take no account of other beam or tissue factors as below.
+
+## Bioeffects
+
+Heating, Cavitation and Other (torque, microstreaming). Rate of rise in temperature is related to intensity and frequency, and inversely to density and the specific heat of the medium: $\frac{dT}{dt} = \frac{2 f I}{\rho C_m}$. It is greatest at the focal point and convected away by perfusion and conducted by contact, and is overall difficult to predict.
+
+Thermal index is the ratio of transmitted power to the power needed to raise the temperature of tissue by 1 degree C: $W_p/W_{degree}$
+
+Cavitation occurs with a resonant frequency determined by the radius of the microbubble, and thus distributed around it: $F_0 = 3260/ R_0$
+
+Mechanical Index is the likelihood of causing cavitation and so on, and is the ratio of peak rarefaction pressure and the square root of transmission frequency, for a C(MI) of 1 Mpa per MHz: $MI = \frac{\rho_{r.3}}{C_{MI} \sqrt{f_c}}$
+
+# LV
+
+## Thick walls
+
+Hypertrophy (genetic v endocrine, haemodynamic) Infiltrative (Amyloid) Storage (Glycogen (Danon, Pompe), Mucopolysaccharidoses, Sphingolipidoses (Gaucher, Anderson-Fabry)) HCM 15mm+; or 13mm+ in first degree relatives of true case. Don't need Asymmetric septal hypertrophy (ASH), SAM, resting or labile LVOTO. Look for Extent and distribution of LVH, LVOTO; MV length & motion, pap and chord abnormalities, MR; LV volume, EF, strain; LA volume index. HOCM is gradient \>30mmHg, but not really significant if \<50. If 50 at rest, Valsalva, Amyl, Stress (squat to stand), stress+ (exercise), cath, then likely significant. Late peak may even have a lobster claw diastolic flow from an apical pouch.
+
+## LV mass
+
+Increased is \>95 g/m\^2 female \>115 g/m\^2 male
+
+LV Mass = 0.8 \* {1.04\[(LV end-diastolic diameter + inferolateral wall diastolic thickness + septal wall thickness in diastole)\^3 -- (LV end-diastolic diameter)\^3\]} + 0.14 g
+
+Relative wall thickness is twice the inferolateral wall thickness divided by the EDD of the LV.
+
+Relative wall thickness divides the normal / eccentric hypertrophy (="must be somewhere else") from the concentric remodelling/ concentric hypertrophy definitions. RWT is twice the posterior wall thickness divided by the LV internal diameter in diastole. Concentric is with a high relative wall thickness: hypertension, AS, HCM and such. Eccentric is an old CXR observation, with normal RWT: AR, MR, Dilated cardiomyopathy and such. Sphericity index is short divided by long axis of ventricle. "Mechanical disadvantage if spherical" because of fibre arrangements. AR, dilated CM.
+
+Stress (sigma, roughly a statement of afterload) is equal to Pressure times radius, divided by wall thickness.
+
+## LV systole
+
+The LV fibres are arranged so that its contraction results in shortening, twisting, and torsion. This creates a vortex that shoots out of the LV like wine rapidly swirled out of a bottle (reduces cavitation and ensures the laminar character of the flow). 40% of the vortex ejection is from the torsion, according to models that just haul on the fibres in a straight line. This means a single imaging plane would capture some fibres at the start which would disappear out of plane, showing only some of the motion. So wall motion abnormalities can be hidden, or exaggerated, depending on the imaging plane.
+
+For certainty in interpretation of the standard views, for consistency, and for communication of findings, ... you need to learn the standard views and obtain them for everyone. That means
+
+-   Parasternal Long Axis (PLAX)
+-   Parasternal Short Axis (PSAX)
+-   Apical 4 Chamber
+
+and once you've got them do some others afterwards as well too.
+
+## LV cavity
+
+LV cavity by tips of mitral transverse measurements Males 54 (34-74) ml/m\^2 diastole, 21 (11-31) systole Females 45 (29-61) ml/m\^2 diastole, 16 (8-24) systole
+
+EPSS \>6mm is dilation.
+
+## LV Thrombus
+
+Before PCI era, 5-15% of LAD MIs would develop LV thrombus, of which 90% in the first 2 weeks. Still half of patients with LVEF\<20% develop thrombus. Differential diagnosis: trabeculations, false tendons, tumors, apical hypertrophy, HES, artifact.
+
+# RV systole
+
+-   Eyeball: 85% correlation with Simpson's but 15% interobserver variability.
+-   FAC
+
+Contrast improves, and remember always to check the LV en passant.
+
+## Segments
+
+This is UNBELIEVABLY boring. But:
+
+You can't do echo without it. Not forever. Give it a year and you'll be yearning.
+
+FIRSTLY:
+
+Going around a short axis view there are six regions which are like longitudinal stripes along the LV. Each has a basal, mid and apical segment. Finally there's an apical cap, and that makes 19 regions which is super easy to remember.
+
+## Measurements
+
+At the PLAX look along the tips of the mitral valve - LV study: now pay attention. This means the septum, posterior
+
+E point septal separation 7mm S' 7.5 $cms^{-1}$ dP/dt 1200 normal, \<800 abnormal, \<600 associated with poor prognosis.
+
+## LV ejection fraction
+
+Male normal \>51 (to 72%) mild 41-51 mod 30-40 sev \<30
+
+Female normal \>53 (to 74%) mild 41-53 mod and sev same as male
+
+## LV Tei
+
+ICT + IRT / ET, 0.39 +/- 0.05 by combined flow doppler looking at both aortic and mitral flows simultaneously.
+
+# Diastology
+
+These findings are all logical by themselves, but they both cluster (measure the same thing, or nearly so) and interact (the interpretation of a value in one measurement differs according to the value of another measurement).
+
+## LA size
+
+LA is not in exactly the same plane as LV, and 3D or just a dig about to maximise the dimension can reveal dilation.
+
+16-34 ml/m\^2 BSA is normal \>34 mild \>= 42 moderate \>48 severely dilated
+
+## LA pressure
+
+LA pressure is high in heart failure, and higher in worse heart failure. A high LA pressure predicts mortality and frailty. It is the sum of the LVEDP and the transmitral gradient, of course, assuming that gradient equilibrates at the end of diastole which in severe MS is not guaranteed. is not measurable without putting a catheter in the LA and that is not usually feasible. Important and unmeasurable? Sound like a job for bullshit! High LA pressure is predicted by:
+
+Pulmonary hypertension (TR \> 2.8 m/s, or 30mmHg gradient) LA volume index \<34ml/m\^2, average A4C and A2C measurements Fast early diastolic filling (High E wave \>1 m/s) Pulmonary vein S/D ratio \<1 (so the diastolic wave is bigger, because the LA is stiff and full) Pulmonary vein A duration Pulmonary vein A velocity Pulmonary vein Ar/A duration \>30ms. I don't really understand this. Is it a ratio? A delay? A total? I think maybe a delay. Low wall filter 100-200MHz. Also it's called Ar-A suggesting a delay in the 2019 commentary. OK it's definitely a derived difference in durations not a derived delay. Totally clear.
+
+PA diastolic pressure is roughly PIEDP (near QRS) PA mean is roughly PI max P
+
+E deceleration time IF E:A \> 1 Change in EA with Valsalva \>0.5 (is this a ratio of the ratio before and after Valsalva, or a change before and after, or what) Transmitral L wave between the E and A. I don't understand this and from the descriptions neither to many others.
+
+LAP = E/e' +4, or 1.24\*E/e' + 1.9 = SBP -- 4(MR Vmax)\^2 if significant MR
+
+Mmode Bbump is IMMEDIATELY after the A wave and implies high LVEDP.
+
+## Stiffness
+
+E:A ratio E/e' \>14, or \>18 in critical care If there is AR, you can calculate LVEDP from the cuff diastolic pressure and the end diastolic AR gradient as DBP-4ARend\^2
+
+# Mitral valve
+
+Carpentier classification Type1 Normal movement (inc perforation) Type 2 Prolapsed leaflets Type 3a Restricted leaflets in systole and diastole (eg rheumatic) Type 3b Restricted only in systole (eg inf MI)
+
+## Forward flow
+
+E velocity depends on LA pressure, concomitant LV pressure and stiffness, and inflow obstruction (stenosis or merely calcification causing turbulence). [^1]
+
+[^1]: MV_driving_pressure.png
+
+## Mitral Regurgitation
+
+You're more likely to overestimate severity (by one grade in 60% by echo compared to MRI modality!) in mild-mod. Underestimation of severe MR is about 20%. Measures are as follows.
+
+Coaptation zone is 8-10mm for the MV.
+
+Proportion of LA filled by jet. This is angle dependent, Coanda loses energy into the wall, miss the whole thing, gain and scale dependent. Set the Nyquist limit at 50-70 cm/s, gain set very high (so the random speckles from walls only just disappear). \<20% mild \>50% severe
+
+Vena contracta width (don't move the baseline): \<0.3cm mild \<0.7cm moderate \>0.7cm severe Biplane width \>0.8cm severe
+
+Continuity equation CSA_1 VTI_1 = CSA_2 VTI_2, so Mitral annulus SV= LVOT SV unless some is going missing (and assuming circularity rather than the saddle shape we know). MRVol=MAnnulus vol - LVOT vol, this is the Regurgitant Volume. Regurgitant Fraction is MRVol/MAVol. Measure MODAL velocity right at annulus (which is hard if Ca++), error\^2, without AR
+
+Then the EROA is MRVol/MV annulus VTI. So:
+
+    | mild  | mod   | mod2  | severe
+
+MRVol\| \<30 \| \<45 \| \<60 \| \>60 RF \| \<30 \| \<40 \| \<50 \| \>50 ERO \| \<0.2 \| \<0.3 \| \<0.4 \| \>0.4
+
+Regurgitant volume is the mitral annulus inflow by annulus VTI and CSA, minus aortic ejection, and so regurgitant fraction is VTI\_{Annulus}*CSA\_{Annulus} -- VTI\_{LVOT}*CSA\_{LVOT}/ VTI\_{Annulus}\*CSA\_{Annulus} dP/dt, \<500 abnormal, 1000-1200 normal; from 1 to 3 m/s is dP=32, so 32/dt is the value.
+
+Area is 220/PHT, PHT is Decel time \*.29
+
+## Mitral Stenosis
+
+Score for success of balloon valvuloplasty [^2]
+
+[^2]: @Wilkins
+
+Score \| Leaflet Mobility \| Leaflet Thickening \| Leaflet Calcification \| Subvalvular thickening \| 1 \| Highly \| 4-5mm \| Single bright spot \| Minimal \| 2 \| Reduced \| margins, 5-8mm \| Margins \| 1/3 of chordal length\| 3 \| Basal only \| Whole leaflet \| To midleaflet \| Distal 1/3 too \| 4 \| Minimal \| Very thick \>8mm \| Extensive \| To papillary muscles \|
+
+## Prosthetic MV
+
+Nishimura JamCollCardio (JAMA Cardiology?) ACC/AHA valve focused update 2017 PHT is 0.29\*Deceleration Time, and PHT \>130 is pathological stenosis.
+
+Peak E velocity \<1.9m/s normal; possible stenosis 1.9-2.5; suggestive \>2.5 Mean gradient \<5; 6-10; \>10 mmHg VTI MV / VTI LVOT \<2.2; 2.2-2.5; \>2.5 EOA \>2; 1-2; \<1 EOAi \>1.2; 0.6-0.9; \<0.6 PHT \<130; 130-200; \>200
+
+Increased peak E and mean gradient can be increased with increased flow, or regurgitation; PHT helps to differentiate between stenosis (long PHT) or the others (short PHT).
+
+Then, a low VTI ratio, which indicates that the flow is roughly balanced between LVOT and MV, after we've taken some measure of (which remember is for a different purpose from the aortic VTI ratio where it indicates the same blood, flowing in the same direction at the same time but through a smaller orifice; and so is calculated the opposite way around from the Aortic valve, as VTI MVP / VTI LVOT rather than VTI LVOT / VTI CW across valve) pretty much excludes pathological regurgitation as a cause of the high velocities.
+
+Patient prosthesis mismatch is \<0.9 cm^2/m^2 severe \<1.2 moderate.
+
+# Aortic valve
+
+[^3]
+
+[^3]: AV_driving_pressure.png
+
+## Aortic Stenosis (AS)
+
+Planimetry best, by TOE, for mild-mod. Continuity works. Use the non-imaging CW transducer (crucifix / Pedoff), in multiple angles, and don't record the LVOT PW from the zone of proximal flow acceleration (which underestimates severity). Omit the diameters and use only VTI ratio LVOT/AV for Dimensionless Index unless LVOT diameter is large (\>2.6cm), when DI underestimates severity / overestimates size of the AV orifice by the absence of alpha angle correction as in mitral stenosis, presumably, as flow is funnelled into the orifice.
+
+Consider cath if discordance (usually not necessary); equations for mean gradient are - Gorlin \$ AVA = \frac{Forward flow rate}{44.3 C \sqrt{mean gradient}}\$ or - Hakki \$AVA = \frac{cardiac output}{\sqrt{Peak to peak}} \$
+
+Bernoulli \$ Peak = 4(AV velocity\^2 -- LVOT velocity\^2)\$, which can't be done continuously so the mean can't be estimated this way as CW and PW can't be simultaneously done.
+
+Also full Bernoulli is convective acceleration + flow acceleration + viscous friction which are $$p_1 - p_2 = \frac{\rho}{2} (V_1^2 – V_2^2) + \rho \int_1^2 \frac{d \bar V}{dt} d \bar s + R(\bar V)$$
+
+And mean can be guessed from regression equations and demographics of *native valves only* as $2.4V_{max}^2$ or even simpler as $0.67 \Delta P_{max}$
+
+            |Norm   |Mild   |Mod    |Sev 
+
+Vmax m/s \|\<2 \|\<3 \|\<4 \|4+ mean gradient mmHg \|\<20 \|\<20 \|\<40 \|40+ AV area cm\^2 \|\>1.5 \|\>1.5 \|\<1.5 \|1- AV index cm^2/m^2 \|\>1.0 \|\>0.8 \|\<0.8 \|0.6- DI PWLVOT/CWAV \|
+
+Ca++ mild-mod (or \<1200 AU or \<300 AU/cm\^2 women, \<2000 AU r \<500AU/cm\^2 men) has 75% 5y survival, versus 20% if mod or sev.
+
+Low flow low gradient AS needs a stress echo (usual stopping rules) and decision. Operative mortality is about 20%, with a further 10-20% in one year, but increases EF and decreases NYHA symptom class. Much better if "contractile reserve" (\>20% increase in stroke volume on dobutamine stress), when operative mortality is 5% and 3y mortality 25%, versus 30% and 45% if no reserve. But much worse if no AVR, of course: with reserve 3y mortality 75%, without 85%. TAVR low periprocedure mortality but contractile reserve doesn't predict outcomes or success. 33% dead at 2y and probably 50% at 3. So prefer TAVR if no contractile reserve.
+
+There's a low flow low gradient normal EF variant with severe hypertrophy, where the LVOT is also small.
+
+## Aortic Regurgitation (AR)
+
+Nice grading algorithm: if 4/7 Severe criteria on qualitative or semiquantitative echo, it's severe. If 4/7 mild it's mild. Between those, perform EROA, regurgitant volume and fraction, and grade as below. Zone of coaptation is "a few millimetres" for semilunar valves. AHA/ ACC 2014 guidelines for practice: Asymptomatic severe progresses at about 4% per year to symptoms, death, LV failure. About 30% of the endpoints occure before symptoms (and heart failure can be prevented by screening) EDD, ESD, EDV, ESV, and especially LVEF on exercise predict progression. Replace the severe if symptomatic, LV systolic dysfunction (LVEF\<50%), severe or progressive LV dilatation, or if you're already in there doing an operation as Class 1 indications. Class 2 are LVEF \>50%, LVSD\>50mm; or 2b if LVEF \>50% and LVDD \>65mm if low surgical risk.
+
+If the regurgitant jet CW spectrum is incomplete, it's trace. If dense, mod or severe. If short jet, more severe or high LVEDP (as in acute AR). If early AV closure, severe. If diastolic AV opening due to very high LVEDP, severe.
+
+                |Mild   |Mod    |Sev 
+
+Vena contracta (mm) \|\<3 \|\<6 \|6+ Width (%LVOT, central) \|\<25 \|\<65 \|65+ Flow convergence \|N \|small \|Y Regurgvol (ml) \|\<30 \|30-44 \|45+ Regurg fraction % \|\<30 \|\<40 \|40+ EROA cm\^2 \|\<0.10 \|\<0.20 \|0.30+ PHT (ms) \|\>500 \|\>200 \|\<200 \^jet width, jet CSA, Rvol, Rfrac, EROA all have a subdivided moderate category.
+
+## Aortic prosthesis
+
+Expected velocities for each type and size of valve can be looked up. Over that is Too Fast.
+
+If the peak aortic prosthetic velocity is \>3m/s, may check DI first. DI (LVOT VTI/AV VTI) \>0.37 is normal and \>0.3 acceptable, so check for subvalve narrowing, underestimated gradient (from recording the LVOT velocity in the flow convergence zone). If DI \<0.25 and AT \>100ms then obstruction; if AT\>100ms it's pretty clearly obstruction. If 0.25-0.30 then the AT is still the decider and if \>100ms obstruction likely. Otherwise, if DI 0.25-0.30, AT\<100ms, check EOA indexed to body surface area for high flow or PPM: EOA should be \>0.85 cm^2/m^2, if \<0.65 cm^2/m^2 it's severe.
+
+Or you could start with AT; if \<100ms then it's unlikely to be pathological obstruction.
+
+Acceleration time \>100ms, ejection time \>275ms and a high ratio of AT/ET (\>0.37; sensitive 0.96, specific 0.82) mean significant obstruction. Effective Orifice Area of 0.65cm\^2 / m\^2 BSA is severe patient prosthesis mismatch (\<0.85cm^2/m^2 moderate). Periprosthetic leak is mild if \<10% of the circumference is occupied by regurgitation; moderate if less than 30%, severe if more than 30%.
+
+Pressure recovery (small aorta after larger ST junction, flow causing sudden pressure drop at the orifice recovered with flow in the ascending aorta) explains difference between pullback and doppler derived pressure gradients. Energy loss coefficient is the ratio of the product to the difference of the ascending aorta to the aortic orifice by doppler, $AVA_{predict} = \frac{AAA \times AVA_{Dop}}{AAA – AVA_{Dop}}$.
+
+# IVC
+
+Predict or assume RAP : 3, 8, 15 if 0, 1 or 2 of diameter 2cm, collapse 50%. Subcostal subxiphoid, IVC long axis if possible. Mmode I spopular but suffers from translational error.
+
+# Volume responsiveness
+
+LVOT VTI change by 20% (to avoid Grey Zone of Slama; others say 10 or 15%) within 1 minute of passive leg raise, and a reversal when laid flat again.
+
+# Right ventricle
+
+Normally \< 42 by 27 mm on A4C and PSAX (anterior to the AV) respectively Volumes larger in men, ejection fraction larger in women although accept \>45% as normal:
+
+ml/m\^2 \|Men \|Women\
+RVEDV \|87 \|74\
+RVESV \|44 \|36 RA(+/- 7ml) \|25 \|21
+
+## RV systole
+
+Abnormal if - RV FAC at A4C \>35% (excludes RVOT contribution) correlation with MRI EF of 0.7-0.88 - EF by 3D \>44% - RIMP TD (Tricuspid valve closed time (TVCT)-ejection time/ ejection time, or IVCT+IVRT/ejection time, by DTI) \>0.55, hard to reproduce and susceptible to complex geometry, and load dependent; and is more normal when the RA pressure is higher, so is increased by fluid loading in the absence of improvement in RV function or CO; hence is also dependent on filling time so useless in AF. - RIMP PW (PW of RVOT ejection and TV inflow) \>0.40; same - TAPSE \<16mm abnormal. Easy but load, angle and sampling dependent - RV S' \<10cm/s (and reduced RV e' = RV diastolic dysfunction) \[S prime\] - RV dP/dt\<400mmHg/s - Isovolumic acceleration is very insensitive, abnormal if \<1.4m/s\^2 and normal if over 3m/s\^2 - McConnell's, 60/60 (flying wedge with \<60ms PV acceleration time, notch and \<60mmHg RV pressure)\
+- 2D Strain is less angle or sampling dependent but is (less) load dependent and (less) sampling dependent (yet still prognostic); see also strain. Free wall \<\|20%\| abnormal
+
+## RV diastole
+
+Abnormal if - RV e'\<6cm/s
+
+## RVOT
+
+PVR in Woods = 0.16 + 10 \* (TRVmax/RVOT VTI) PADP = 4(PREDV\^2) + RAP mPAP = 4(PRVmax\^2) + RAP = 79 -- 0.45(PV AccT) = TR VTI + RAP = 1/3 PASP + 2/3 PADP
+
+# Tricuspid valve
+
+Anterior leaflet is large, septal is small.
+
+## Tricuspid regurgitation
+
+20-30% of TR is primary. AF can cause it, by RA dilatation. Zone of apposition is 4-9mm. Vena contracta with Nyquist 50-60cm/s: \<0.3 mild, \>0.7cm severe regurgitation (0.4cm\^2 on 3D echo). EROA by PISA similarly \<0.2cm\^2 mild, \>0.4cm\^2 severe, Residual volume \<30ml mild, \>45ml severe
+
+# Strain
+
+Percent deformation. Negative if contracting, positive if being filled (the reservoir function of the LA for example). By doppler: Measure velocities, derivation provides strain rate, and integration provides strain. This gives only the strain relative to the sample volume ( and in the direction of the detector). It's also noisy and needs a dedicated image, but has excellent temporal resolution. Speckle tracking: speckles are tracked and velocities calculated as (Vx, Vy) = (dX, dY) \* Frame rate. Angle independent to the extent that subcostal strain is equivalent to apical 4 chamber. How the speckles are tracked is black boxy and so vendor dependent. ALTHOUGH, there's a gradient of strain greatest at the apex and least at the base, although smaller than the gradient in tissue velocity. Also, sensibly, there's a gradient from greatest at the endocardium (because it's passively compressed from a lower resting length) to lowest at the epicardium. This Layer specific strain is not used right now because there's layer interdependence and lateral resolution is insufficient with current technology.
+
+Avoid atria, LVOT, epicardium and don't measure GLS if two segments are not well visualised in a given 2D view. 3D has low temporal and spatial resolution and more vendor dependence so not for prime time.
+
+It's not quite load independent; large afterload increases reduce strain. Preload increases strain. Higher (very high) heart rate reduces strain (slightly). And MR or AR increase strain.
+
+Bullseye map.
+
+Strain is longitudinal (longer +ve or shorter), radial (thicker +ve or thinner), or circumferential (rotating clockwise +ve or anticlockwise). Only really ready for longitudinal. Long reduces early in disease, but is compensated by the others, to preserve EF (EF is like a 3D strain).
+
+Usually measure global longitudinal PEAK strain (note end systolic, or peak strain irregardlessless of the point in the cardiac cycle, are alternatives).
+
+For Cancer Therapeutic Related Cardiac Dysfunction CTRCD, EF reduction by 10% relative or below 53%; GLS relative reduction by 8% probably not relevant, but 15% very likely to be abnormal, or below -18%.
+
+Strain detects mortality equally in HFPEF and HfrEF; in AS if \<\|17%\|; in AR if falling below \|20%\|; in MR; after surgery for MR; if MR intervened before strain falls by 15% relative, outcome is much much better post op.
+
+Normal RV free wall longitudinal strain is \>-20%; probably \>-25% is normal. Must use RV focused view, centred at the LV apex to allow more view of the freer free wall.
+
+# Stress echo
+
+Wall motion Index is average of wall score (1=normal, 2=hypo, 3=akinetic, 4=dys, 5=aneurysm) Exercise (Bruce, mod Bruce, Naughton) best. Supine Bicycle increases preload / venous return the most Dobutamine (5-10 low dose, 11-40 high dose! Add legs or fists if not tachy enough! Add atropine 0.5 up to 2mg!!) similar. Dypiridamole worse. Images within 1 minute of peak stress. 80-85% sens, 80-90% spec overall stress echo. But use pretest probability of 70% stenosis by visual estimation; if 10-90% then stress useful. If \<10%, no stress, if \>90%, straight to cath.
+
+1 worsening hypokinesis segment is positive.
+
+Low dose viability (increases contraction on low dose dobutamine; usually 4-8mic/kg/min then fuck it go ahead and burn her up to high dose to 85% predicted max HR): PPV 77%, NPV 84%. Revasc improves EF, CHF, survival if viability change. Monophasic (better at low AND high): viable; not flow limited. Sensitive (86%, 64% specific for treatment response). Biphasic: (better at low, worse at high): viable; flow limiting stenosis. Most interesting finding for treatment response. Specific (89%, sens 79%). Ischaemic (stress induced ischaemia); flow limiting stenosis. Nonphasic (no change); dead.
+
+FDA allows contrast if 2 contiguous segments are non visualised at rest.
+
+Beyond diagnosis, a higher WMSI is much worse prognosis, as is the extent (number of segments), severity (worst segment), induced abnormality and LV dilatation. Good prognosis is normal response, decrease in LV volume and increase in EF, long duration of exercise. Maximal stress, EF \>50% at rest and on no anti-ischaemic drugs event rate is \<1% per year, and \>40%, submaximal, drugs is 1-3% per year.
+
+# Atria
+
+# ASDs
+
+## Secundum ASD
+
+Secundum ASD is the commonest, in the mid septum.
+
+## Primum ASD
+
+Primum ASD is anterior, close to the AV valves. Part of the spectrum of AV canal defects and associated with others, such as cleft mitral valves.
+
+# Technical factors
+
+Velocity detection is roughly 10% of the Nyquist limit. Velocity is not conserved; mass is conserved, and flow is mostly conserved (taking out changes in chamber size), as is momentum, and energy. Velocity is measured; flow is velocity times cross-sectional area; momentum is flow times velocity; energy is momentum times velocity. Flow = Av = Q Momentum = Qv = Av\^2 Energy = Qv\^2 = Av\^3
+
+The momentum at the orifice is equal to the momentum at every other distance from the orifice. This is why a 5m/s MR jet looks the same as a 2.5m/s TR jet if the flow rate of the MR jet is half as great as the TR jet, say 100ml/s versus 200ml/s.
+
+Chamber constraint, Nyquist minimum detectable velocity, and momentum dispersal mean jet size is not a great independent predictor.
+
+# Doppler
+
+The Doppler frequency shift, $$\Delta f$$, is the difference in velocities and is related fairly simply to the fundamental frequency, the velocity *v* of the reflector and *c* of the carrier wave in the medium, and the angle of travel relative to the angle of insonation by $\Delta f = 2 f v \textrm{ cos}\theta / c$.
+
+Reformat to give velocity of the reflector, as:
+
+$$v = \frac{c \Delta f}{2 F_T \textrm{cos} \theta} $$
+
+You can see that the Doppler shift, and so the ability to detect velocities, is greater with higher transmission frequency. 
+
+## Continuous Wave Doppler 
+
+A pure tone is emitted in one line of the scan, and echoes are returned, Doppler shifted. The Doppler velocity is displayed over time. The Doppler velocities could be coming from anywhere along the line, but their velocity is accurately detected.
+
+## Pulsed Wave Doppler 
+
+A chirp or pulse is emitted, and only the Doppler velocity of the signals returned from a specified depth are displayed. In order to display these over time, the pulses have to be repeated, which creates a problem. If the velocity of the reflector creates a Doppler frequency shift that is more than half of the frequency that the pulses are being emitted, then the returned signal is ambiguous: the same shift can then be caused by a reflector moving in the given direction at a certain velocity, or by a reflector moving in the opposite direction at that same velocity plus the limit; the "wrapped around" behaviour of the signal is called aliasing.
+
+Pulses can only be sent so often, and the deeper the sample volume, the lower the PRF can be and so the lower the measurable velocity.
+
+This Nyquist limit means the Doppler shift that can be detected with pulsed wave doppler is half of the pulse repetition frequency. There are two ways out if this: the pulses can be individually coded so that the individual pulse that generated a given shift can be attributed (which is technically hard and computationall expensive so has not been sold in machines), or pulses can be sent at a higher PRF, so that some will return before the next pulse has been sent, creating multiple sampling depths. This range ambiguity of high PRF (HPRF) Doppler sampling can be tolerated if the gates and directions are chosen carefully.
+
+## Colour Doppler 
+
+The receiver can listen for Doppler shift of every returning tone, and display the velocity and direction from each pixel as a colour. Signals over the Nyquist limit are then coded as the opposite direction as an alias.
+
+and so the size of the displayed turbulent jet, The 5MHz used in TOE gives larger jets than the 3.5MHz needed to provide TTE penetration. Pulse repetition frequency PRF inversely affects displayed jet area on 2D colour Doppler.
+
+## Tissue doppler
+
+Turn down the pulsed wave flow velocity scale and turn off the wall filter (aka High pass / low velocity reject filter), and you get the tissue doppler. As all doppler methods do, this measures the instantaneous velocity, and can be put on a velocity-time plot. For example, this is used for RV systolic wall velocity as S', for mitral annular diastolic velocity as e' and a'.
+
+Draw a daisy chain of points for this measurement and you get tissue colour doppler, which measures the mean velocity and so gives a slightly less extreme number, but still gives the same pattern.
+
+It can also be coded into a position (curved Mmode colour tissue doppler) on the y axis, time on the x axis and colour to indicate the mean instantaneous velocity of reflectors passing that position at each time (polar plot, used for example to show up differences in motion for LV wall segments).
+
+# PISA
+
+PISA effective regurgitant orifice area $$EROA = \frac{2\pi r^2 V_{alias}}{V_{MR_{peak}} . \alpha/180}$$ where angle correction for $\alpha$ is the sector subtended by the leaflets into the orifice which is less than a hemisphere.
+
+Get the proximal flow acceleration zoomed way in, with the baseline shifted in the direction of flow (which makes the radius bigger so easier to measure). Regurgitant flow is $2\pi r^2$ alias velocity; Regurgitant Flow/peak velocity is effective regurgitant orifice area EROA because the flow has to go faster through the EROA than through the constructed hemispheres; Regurgitant volume is EROA \* regurgitation VTI by CW, obviously.
+
+And that's PISA. Which can be used with AR, shunts, prosthetics and so on. There are a couple of short cuts: With alias velocity 40cm/s, assuming MR velocity about 5m/s, then EROA is $0.5r^2$ cm. LVOT obstruction or a large component of wall hugging Coanda effect just kind of invalidate it and timing at the peak of the T wave is important (don't yet measure throughout systole).
+
+This calculation from multiple MR jets could in theory be added to estimate the EROA and MR flow, but they can blur together if aliasing volume is set low. More generally, doppler edge ambiguity means it's hard to get the sizes correct and errors on the tiny diameters are squared.
+
+Non hemispheric flow acceleration (the PISA shell being not a sphere but an ellipsoid) can be difficult and severely underestimate the MR severity. With good judgment it may be better to use a prolate spheroid model for the PISA shell, if MR is through the length of a commisure and the ratio of *a* to *b* is \>2:1. If the eccentricity *e* is $\arccos \frac{a}{b}$ then
+
+$$\textrm{PISA shell surface area = } 2\pi (a^2 + \frac{a \times b \times e}{\sin e})$$
